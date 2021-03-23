@@ -1,6 +1,6 @@
 {
   "name": "kc-orderby-res",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "[js] Orderby results array",
   "main": "index.js",
   "repository": {
